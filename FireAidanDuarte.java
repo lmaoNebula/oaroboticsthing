@@ -1,4 +1,5 @@
-//thank you for 1 milon softwar point
+// Code Success!
+//Finished Writing in 2 Minutes.
 package RobotCode;
 
 import com.qualcomm.robotcore.eventloop.opmode.Disabled;
